@@ -15,6 +15,6 @@ public class ScadereTest {
         int rez = scade.scade(a,b);
 
         //assert
-        Assert.assertTrue(rez==3);
+        Assert.assertTrue(rez==2);
     }
 }
